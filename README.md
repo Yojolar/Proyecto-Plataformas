@@ -1,2 +1,2 @@
 # Proyecto-Plataformas
-Este repositorio, 
+Este repositorio, esta dedicado al proyecto de Programacion de plataformas abiertas.
