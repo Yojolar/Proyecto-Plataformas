@@ -126,7 +126,7 @@ class Venta(QtWidgets.QMainWindow, Ui_MainWindow):
             self.venta_producto_box.clear()
             listaProductos = self.actualizar_lista('prod')
             self.venta_producto_box.addItems(listaProductos)
-
+            self.close()
             # print('VENTA ACABADA: ')
             # print()
             # print('lista_ventas: ', self.lista_ventas)
